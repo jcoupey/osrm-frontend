@@ -32,7 +32,7 @@ module.exports = {
     itineraryBuilder: 'osrm-directions-steps',
     showAlternatives: true,
     useZoomParameter: false,
-    routeDragInterval: 100
+    routeDragInterval: 500
   },
   popup: {
     removeButtonClass: 'osrm-directions-icon osrm-close-light-icon',
